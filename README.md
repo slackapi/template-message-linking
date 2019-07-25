@@ -7,7 +7,7 @@ This app bridges Slack threads talking about the same issue. It makes it easier 
 2. Share a message from one channel to another.
 3. Now, after there are at least 3 replies under the re-posted message, Message Linking will reply to the original with a link to the new discussion.
 
-![Message Linking GIF](https://i.gyazo.com/0f7e555b7fca8e912e3e1ec95796c443.mp4)
+![Message Linking GIF](https://files.slack.com/files-pri/T12KS1G65-FLEBK6335/context_gif.gif?pub_secret=2152ed6c15)
 
 ## What are we going to use?
 
