@@ -1,0 +1,20 @@
+{
+  "name": "contextbolt",
+  "version": "1.1.0",
+  "description": "context app made in bolt",
+  "main": "server.js",
+  "dependencies": {
+    "@slack/bolt": "^1.2.0",
+    "async": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "context"
+  ],
+  "author": "Claudio Medina",
+  "license": "ISC"
+}
